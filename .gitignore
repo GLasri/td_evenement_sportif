@@ -1,0 +1,7 @@
+/node_modules/
+/vendor/
+/.env.local
+/.env.*.local
+/public/bundles/
+/var/
+.DS_Store
